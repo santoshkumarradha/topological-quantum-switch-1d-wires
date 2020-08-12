@@ -4,7 +4,7 @@
 
 [arXiv:2005.06096 ](https://arxiv.org/abs/2005.06096)
 
-##projection of 1D Solitonic wire 
+## projection of 1D Solitonic wire 
 <p align="center">
   <img width="100%" height="auto" src="/figs/sshmass_plot.png">
 </p>
@@ -17,5 +17,5 @@
 
 ## Localization of wave function with local density of states as function of chiral mass gap
 <p align="center">
-  <img width="100%" height="auto" src="/figs/1Dwire_density_width.png">
+  <img width="50%" height="auto" src="/figs/1Dwire_density_width.png">
 </p>
