@@ -4,6 +4,12 @@
 
 [arXiv:2005.06096 ](https://arxiv.org/abs/2005.06096)
 
+## Occupied wave function plot of Higher order topological insulator
+<p align="center">
+  <img width="100%" height="auto" src="/figs/optimized.gif">
+</p>
+
+
 ## projection of 1D Solitonic wire 
 <p align="center">
   <img width="100%" height="auto" src="/figs/sshmass_plot.png">

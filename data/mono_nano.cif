@@ -1,0 +1,52 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  ''
+_cell_length_a                         70.04000
+_cell_length_b                         4.12000
+_cell_length_c                         13.43160
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      120.00001
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Sb1        1.0     0.264706      0.000000      0.174782     Biso  1.000000 Sb
+   Sb1        1.0     0.323529      0.000000      0.174782     Biso  1.000000 Sb
+   Sb1        1.0     0.382353      0.000000      0.174782     Biso  1.000000 Sb
+   Sb1        1.0     0.441176      0.000000      0.174782     Biso  1.000000 Sb
+   Sb1        1.0     0.500000      0.000000      0.174782     Biso  1.000000 Sb
+   Sb1        1.0     0.558824      0.000000      0.174782     Biso  1.000000 Sb
+   Sb1        1.0     0.617647      0.000000      0.174782     Biso  1.000000 Sb
+   Sb1        1.0     0.676471      0.000000      0.174782     Biso  1.000000 Sb
+   Sb1        1.0     0.735294      0.000000      0.174782     Biso  1.000000 Sb
+   Sb1        1.0     0.794118      0.000000      0.174782     Biso  1.000000 Sb
+   Sb2        1.0     0.833333      0.333333      0.056305     Biso  1.000000 Sb
+   Sb2        1.0     0.303922      0.333333      0.056305     Biso  1.000000 Sb
+   Sb2        1.0     0.362745      0.333333      0.056305     Biso  1.000000 Sb
+   Sb2        1.0     0.421569      0.333333      0.056305     Biso  1.000000 Sb
+   Sb2        1.0     0.480392      0.333333      0.056305     Biso  1.000000 Sb
+   Sb2        1.0     0.539216      0.333333      0.056305     Biso  1.000000 Sb
+   Sb2        1.0     0.598039      0.333333      0.056305     Biso  1.000000 Sb
+   Sb2        1.0     0.656863      0.333333      0.056305     Biso  1.000000 Sb
+   Sb2        1.0     0.715686      0.333333      0.056305     Biso  1.000000 Sb
+   Sb2        1.0     0.774510      0.333333      0.056305     Biso  1.000000 Sb
